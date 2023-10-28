@@ -16,4 +16,4 @@ If you wish to subscribe to information about events, you can subscribe to the [
 
 | Date | Title | Speaker |
 | ---- | ----- | ----- |
-| 15 November 2023 | [](seminars/missense.md) | Clare Bycroft (Google Deepmind) |
+| 15 November 2023 | [Accurate proteome-wide missense variant effect prediction with AlphaMissense](seminars/missense.md) | Clare Bycroft (Google Deepmind) |
