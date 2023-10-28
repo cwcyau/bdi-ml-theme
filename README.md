@@ -6,12 +6,6 @@ The theme is organised by [Professor Christopher Yau](https://www.bdi.ox.ac.uk/T
 
 If you wish to subscribe to information about events, you can subscribe to the [mailing list](bdi-ml@maillist.ox.ac.uk).
 
-
-## Masterclasses
-
-| Date | Event | Notes |
-| ---- | ----- | ----- |
-
 ## Workshops
 
 | Date | Event | Notes | 
