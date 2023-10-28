@@ -1,1 +1,1 @@
-gem 'jekyll-titles-from-headings'
+gem "github-pages", group: :jekyll_plugins
