@@ -1,5 +1,6 @@
 title: BDI Machine Learning
 description: Information about the University of Oxford Big Data Institute Machine Learning Theme.
 show_downloads: false
-google_analytics:
-theme: jekyll-theme-modernist
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
