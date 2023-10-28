@@ -4,6 +4,9 @@ This is a repo listing events linked to the Machine Learning Theme at the [Unive
 
 The theme is organised by [Professor Christopher Yau](https://www.bdi.ox.ac.uk/Team/christoper-yau).
 
+If you wish to subscribe to information about events, you can subscribe to the [mailing list](bdi-ml@maillist.ox.ac.uk).
+
+
 ## Masterclasses
 
 | Date | Event | Notes |
