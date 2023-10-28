@@ -5,8 +5,7 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Information about the University of Oxford Big Data Institute Machine Learning Theme.
+description: Information about the University of Oxford Big Data Institute Machine Learning Theme.
 
 # Build settings
 
