@@ -6,14 +6,16 @@ The theme is organised by [Professor Christopher Yau](https://www.bdi.ox.ac.uk/T
 
 If you wish to subscribe to information about events, you can subscribe to the [mailing list](bdi-ml@maillist.ox.ac.uk).
 
+* Unless indicated, all events are for University of Oxford members *only*
+
 # Workshops
 
-| Date | Event | Notes | 
-| ---- | ----- | ----- |
-| 15 November 2023 | [BDI-IEU Workshop](workshops/ieu.md) | Joint workshop between the BDI and the MRC Integrative Epidemiology Unit |
+| Date | Event | Notes | Sign-up |
+| ---- | ----- | ----- | ------- |
+| 15 November 2023 | [BDI-IEU Workshop](workshops/ieu.md) | Joint workshop between the BDI and the MRC Integrative Epidemiology Unit | [Sign-up Here](https://forms.office.com/e/9tyX4TJSPy) | 
 
 # Seminars
 
-| Date | Title | Speaker |
-| ---- | ----- | ----- |
-| 15 November 2023 | [Accurate proteome-wide missense variant effect prediction with AlphaMissense](seminars/missense.md) | Clare Bycroft (Google Deepmind) |
+| Date | Title | Speaker | Sign-up |
+| ---- | ----- | ----- | --------- |
+| 15 November 2023 | [Accurate proteome-wide missense variant effect prediction with AlphaMissense](seminars/missense.md) | Clare Bycroft (Google Deepmind) | [Sign-Up Here](https://forms.office.com/e/az2yJALnWg?origin=lprLink) |
